@@ -1,7 +1,7 @@
 ### Namaste World 🙏
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Kotlin Native Android Development.
+- 🌱 I’m currently learning Kotlin Native Android Development with Jetpack Compose.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
